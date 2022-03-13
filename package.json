@@ -1,14 +1,14 @@
 {
-    "name": "ezprofile",
+    "name": "profile",
     "version": "1.1.1",
-    "description": "Kickstart your personal portfolio with Github Api and blog",
-    "homepage": "https://arifszn.github.io/ezprofile",
+    "description": "bansothen your personal portfolio with Github Api and blog",
+    "homepage": "https://bsthen.github.io/profile",
     "private": true,
     "license": "Apache-2.0",
-    "author": "arifszn",
+    "author": "bansothen",
     "repository": {
         "type": "git",
-        "url": "https://github.com/arifszn/ezprofile.git"
+        "url": "https://github.com/bsthen/profile.git"
     },
     "dependencies": {
         "@craco/craco": "^6.2.0",
