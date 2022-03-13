@@ -1,14 +1,14 @@
 {
-    "name": "profile",
+    "name": "bsthen",
     "version": "1.1.1",
     "description": "bansothen your personal portfolio with Github Api and blog",
-    "homepage": "https://bsthen.github.io",
+    "homepage": "https://bsthen.github.io/",
     "private": true,
     "license": "Apache-2.0",
-    "author": "bansothen",
+    "author": "bsthen",
     "repository": {
         "type": "git",
-        "url": "https://github.com/bsthen/profile.git"
+        "url": "https://github.com/bsthen/bsthen.git"
     },
     "dependencies": {
         "@craco/craco": "^6.2.0",
