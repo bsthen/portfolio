@@ -17,7 +17,7 @@ module.exports = {
         behance: '',
         medium: 'bansothen',
         devto: 'bansothen',
-        website: 'https://bsthen.github.io',
+        website: 'https://about.me/bansothen/',
         phone: '',
         email: 'bansokthen@gmail.com'
     },
