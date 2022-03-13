@@ -1,7 +1,7 @@
 // config.js
 module.exports = {
     github: {
-        username: 'arifszn', // Your GitHub org/user name. (Required)
+        username: 'bsthen', // Your GitHub org/user name. (Required)
         sortBy: 'stars', // stars | updated
         limit: 8, // How many projects to display.
         exclude: {
@@ -10,83 +10,71 @@ module.exports = {
         }
     },
     social: {
-        linkedin: 'ariful-alam',
-        twitter: 'arif_swozon',
-        facebook: '',
+        linkedin: 'bansothen',
+        twitter: 'bansothen',
+        facebook: 'bansothen',
         dribbble: '',
         behance: '',
         medium: '',
-        devto: 'arifszn',
-        website: 'https://arifszn.github.io',
+        devto: 'bansothen',
+        website: 'https://bsthen.github.io',
         phone: '',
-        email: 'arifulalamszn@gmail.com'
+        email: 'bansokthen@gmail.com'
     },
     skills: [
-        'PHP',
-        'Laravel',
+        'Web Server',
+        'CentOS',
         'JavaScript',
         'React.js',
         'Node.js',
-        'MySQL',
+        'Python',
         'Git',
         'Docker',
         'CSS',
-        'Antd',
+        'Ubuntu',
         'Tailwind',
         'Bootstrap',
     ],
     experiences: [
         { 
-            company: 'Monstarlab Bangladesh',
-            position: 'Backend Engineer II',
-            from: 'September 2021',
+            company: 'Life Toolbox Co., Ltd.',
+            position: 'Cloud Engineer & DevOps',
+            from: 'Nov 2021',
             to: 'Present'
         },
         { 
-            company: 'Orangetoolz',
-            position: 'Jr. Full Stack Engineer',
-            from: 'July 2019',
-            to: 'August 2021'
+            company: 'KHB Media Plc',
+            position: 'Web Developer',
+            from: 'Jan 2019',
+            to: 'Oct 2021'
         },
         { 
-            company: 'Techvillage',
-            position: 'Jr. Software Engineer',
-            from: 'January 2019',
-            to: ' June 2019'
+            company: 'Alphabase - I.T Solutions and Consulting Services',
+            position: 'Web Developer',
+            from: 'Nov 2018',
+            to: ' Oct 2018'
         }
     ],
     education: [
         { 
-            institution: 'American International University-Bangladesh',
-            degree: 'Bachelor of Science',
-            from: '2015',
-            to: '2019'
-        },
-        { 
-            institution: 'Cantonment College, Jessore',
-            degree: 'Higher Secondary Certificate (HSC)',
-            from: '2012',
-            to: '2014',
-        },
-        { 
-            institution: 'Chowgacha Shahadat Pilot High School',
-            degree: 'Secondary School Certificate (SSC)',
-            from: '2007',
-            to: '2012'
+            institution: 'Royal University Of Phnom Penh (RUPP)',
+            degree: 'Bachelor of Computer Science',
+            from: '2016',
+            to: '2020'
         }
     ],
     blog: {
         // Display blog posts from your medium or dev.to account. (Optional)
         source: 'dev.to', // medium | dev.to
-        username: 'arifszn',
+        username: 'bansothen',
         limit: 3 // How many posts to display. Max is 10.
     },
     googleAnalytics: {
         // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
-        id: 'G-WLLB5E14M6' // Please remove this and use your own tag id or keep it empty
+        id: '' // Please remove this and use your own tag id or keep it empty
     },
     hotjar: {
-        id: '2617601', //  Please remove this and use your own id or keep it empty
+        id: '', //  Please remove this and use your own id or keep it empty
         snippetVersion : 6
     },
     themeConfig: {
