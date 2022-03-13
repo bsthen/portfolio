@@ -5,7 +5,7 @@ module.exports = {
         sortBy: 'stars', // stars | updated
         limit: 8, // How many projects to display.
         exclude: {
-            forks: false, // Forked projects will not be displayed if set to true.
+            forks: true, // Forked projects will not be displayed if set to true.
             projects: ['laravel-ecommerce'] // These projects will not be displayed. example: ['my-project1', 'my-project2']
         }
     },
@@ -15,7 +15,7 @@ module.exports = {
         facebook: 'bansothen',
         dribbble: '',
         behance: '',
-        medium: '',
+        medium: 'bansothen',
         devto: 'bansothen',
         website: 'https://bsthen.github.io',
         phone: '',
